@@ -43,6 +43,6 @@ i {
 }
 
 .ro-zoom-x:hover {
-  transform: scale(1.01);
+  /* transform: scale(1.0001); */
   box-shadow: 0px 0px 15px 3px rgba(6, 7, 99, 0.1);
 }
