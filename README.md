@@ -1,2 +1,20 @@
-# BI-Blog
-Website dan Blog yang memberikan infomasi seputar QR Code Standar Indonesia
+# BI-Blog Review
+
+## infomasi Seputar QR Code Standar Indonesia
+
+### Apa Sih QR Standar Indonesia itu?
+
+- QRIS (QR Code Indonesian Standard) adalah standar QR kode pembayaran untuk sistem pembayaran Indonesia yang dikembangkan oleh Bank Indonesia dan Asosiasi Sistem Pembayaran Indonesia (ASPI).
+- Inovasi teknologi berkembang sangat cepat pada berbagai aspek ekonomi digital, termasuk sektor pembayaran. Untuk mewujudkan visi Sistem Pembayaran Indonesia 2025, diperlukan dukungan inovasi bagi pengembangan ekonomi dan keuangan digital. Salah satu inovasi yang mulai berkembang dan banyak digunakan adalah layanan pembayaran digital berbasis QR Code. Bank Indonesia melihat manfaat cara pembayaran tersebut untuk mendoronng efisiensi perekonomian, mempercepat keuangan inklusif, dan memajukan UMKM.
+- Standar Nasional QR Code diperlukan untuk mengantisipasi inovasi teknologi dan kanal pembayaran menggunakan QR Code yang berpontensi menimbulkan Fragmentasi baru di industri sitem pembayaran, serta untuk memperluas akseptasi pembayaran non tunai nasional secara lebih sefisien. Dengan satu QR Code penyedia barang dan jasa (Merchant), tidak perlu memiliki berbagai jenis QR Code dari berbagai penerbit.
+- QRIS disusun dengan standar internasional EMV Co. Standar ini diadopsi untuk mendukung interkoneksi yang lebih baik dan bersifat Open Source serta mengakomodasi kebutuhan spesifik negara sehingga memudahkan interoperabilitas antar penyelengara, antar instrumen, termasuk antar negara. Saat ini standar tersebut juga telah digunakan di berbagai negara seperti India, Thailand, Singapore, Malaysia, Korea Selatan, dll.
+
+### QRIS kira-kira buat siapa aja ya?
+
+- Siapapun yang memiliki ponsel dengan kamera dan konektifitas data, serta akun pembayaran elektronik dapat melakukan pembayaran melalui QRIS.
+- Konsumen dapat memilih dan mengunduh aplikasi pembayaran yang terpasang pada ponsel mereka. selanjutnya pengguna melakukan registrasi ke salah satu Penyelenggara Jasa Sistem Pembayaran (PJSP) dan memastikan tersedinaya saldo untuk melakukan transaksi. Melalui aplikasi, konsumen selanjutnya melakukan scan QRIS pada merchant, memasukkan nomonal transaksi, melakukan otorisasi transaksi dan kemudian melakukan konfirmasi pembayaran kepada penyedia barang dan/atau jasa.
+- Konsumen dapat menggunakan aplikasi uang elektronik server based, dompet eletronik atau mobile banking yang memeiliki fitur pembayaran menggunakan QR Code.
+- Konsumen harus membudayakan untuk menggunakan pembayaran QR dan memverifikasi keakuratan tiap kali melakukan pembayaran. Saat mengunduh aplikasi pembayaran menggunakan QRIS, konsumen hanya boleh menggunakan aplikasi PJSP yang Autorizhed sesuai petunjuk masing-masing PJSP. Aplikasi PJSP memiliki fitur keamanan untuk membantu mendeteksi dan mencegah fraud transaksi ke merchant palsu. Setelah memindai QRIS, konsumen harus memeriksa bahwa nama merchant yang ditampilkan pada aplikasi pembayaran mereka cocok dengan nama merchant yang ditampilkan di atas label QRIS. Setelah pembayaran berhasil konsumen akan segera notifikasi pembayran. Demikian pula, pedagang juga akan menerima notifikasi. jika konsumen mencurigai adanya penipuan atau permasalahan dalam melakukan transaksi, segera hubungi PJSP terkait. Sumber pendanaan untuk aplikasi pembayaran dapat berupa kartu kredit, kartu debit, uang elektronik, atau rekening tabungan sesuai dengan fitur yang dimiliki masing-masing aplikasi PJSP.
+- Tidak ada biaya tambahan bagi konsumen saat melakukan pembayaran menggunakan QR Code, ye ye ye ye... aman deh.
+- QRIS dapat ditemukan di pedagang yang menerima pembayaran elektronik melalui QR Code. Pedagang yang menerima pembayaran QRIS akan memiliki logo QRIS di toko mereka. Gambang banget kan...
+- Saat ini, konsumen dapat menemukan beberapa QR Code disatu Merchant yang menerima berbagai aplikasi pembayaran elektronik. Hal ini dapat membatasi pilihan konsumen dalam melakukan transaksi. Stiker QR Code yang tidak terorganisir tidak optimal untuk industri. Dengan QRIS, konsumen hanya akan melihat satu QR Code. CR Code ini dapat menerima berbagai opsi pembayaran konsumen. Keren banget kan...
